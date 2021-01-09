@@ -1,8 +1,7 @@
 def main(msg):
-    #comment
-    #another
-    #two
-    #3
+    #no comments
     print(msg)
 
+def secondary():
+    print("new")
 main("hello world")
